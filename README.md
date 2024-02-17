@@ -7,15 +7,11 @@
 
 - 🌱 I’m currently learning **Data Engineer, Devops, Python etc.**
 
-- 📝 I regularly write articles on [https://medium.com/@chutdanai.tho](https://medium.com/@chutdanai.tho)
-
 - 💬 Ask me about **Python, Google Cloud Platform**
 
 - 📫 How to reach me **Chutdanai.thongsom@gmail.com**
 
-- 📄 Know about my experiences on LinkedIn [https://www.linkedin.com/in/chutdanai-thongsom-22318b246/](https://www.linkedin.com/in/chutdanai-thongsom-22318b246/)
-
-- ⚡ Fun fact **I'm really love to learning**
+- ⚡ Fun fact **I'm someone with a growth mindset. I enjoy exploring new things that interest me and love playing almost every kind of sport, including weightlifting and running. I also have a passion for reading books, especially on economics, psychology, history, and science (and some cartoons too). I like playing management games or any games that I can enjoy with friends. Oh, and I can play music too—my best is the guitar, and I'm pretty decent on the piano as well!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +25,11 @@
 <p align="left"> 
 </p>
 
+<h3 align="left">Programming Libraries:</h3>
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="100" height="40"/> </a> 
+<p align="left"> 
+</p>
+
 <h3 align="left">Software Tools:</h3>
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -37,6 +38,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" alt="apache_airflow" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Cloud Services:</h3>
