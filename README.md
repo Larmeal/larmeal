@@ -47,8 +47,8 @@
 
 <h3 align="left">Management Software:</h3>
 <p align="left"> 
-  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=150304258748&campaign=18455429755&creative=663390759260&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73361184046&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" alt="jira" width="40" height="40"/> </a>
   <a href="https://miro.com/?utm_adgroup=&adgroupid=142344724793&utm_custom=18261731950&matchtype=e&device=c&location=1012728&gad_source=1" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=150304258748&campaign=18455429755&creative=663390759260&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73361184046&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" alt="jira" width="40" height="40"/> </a>
   <a href="https://trello.com/home" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="trello" width="40" height="40"/> </a>
 </p>
 
