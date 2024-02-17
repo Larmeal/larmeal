@@ -15,19 +15,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chutdanai (dearm) thongsom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chutdanai (dearm) thongsom" height="30" width="40" /></a>
-<a href="https://medium.com/chutdanai thongsom (dearm)" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="chutdanai thongsom (dearm)" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/larmeal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="larmeal" height="30" width="40" /></a>
+  <a href="https://medium.com/chutdanai thongsom (dearm)" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="chutdanai thongsom (dearm)" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/chutdanai (dearm) thongsom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chutdanai (dearm) thongsom" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/larmeal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="larmeal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming & Query Languages:</h3>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Programming Libraries:</h3>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="100" height="40"/> </a> 
 <p align="left"> 
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="100" height="40"/> </a> 
 </p>
 
 <h3 align="left">Programming Software:</h3>
