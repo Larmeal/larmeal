@@ -20,13 +20,9 @@
   <a href="https://linkedin.com/in/chutdanai (dearm) thongsom" target="blank"><img align="center" src="https://symbols.getvecta.com/stencil_65/10_linkedin.141f816ae8.svg" alt="chutdanai (dearm) thongsom" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming & Query Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="left">Programming Libraries:</h3>
-<p align="left"> 
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="100" height="40"/> </a> 
 </p>
 
