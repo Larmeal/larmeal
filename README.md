@@ -55,8 +55,8 @@
 <h3 align="left">Cloud Services:</h3>
 <p align="left"> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/bigquery?hl=en" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/bigquery-icon-512x512-fxxj0xd6.png" alt="bigquery" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/storage?hl=en" target="_blank" rel="noreferrer"> <img src="https://iconduck.com/icons/104574/cloud-storage" alt="googe_cloud_storage" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/bigquery?hl=en" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/10_google-bigquery.0f26b56a8d.svg" alt="bigquery" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/storage?hl=en" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/47_google-cloud-storage.fee263d33a.svg" alt="googe_cloud_storage" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Certificates:</h3>
