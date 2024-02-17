@@ -56,20 +56,14 @@
 <p align="left"> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/bigquery?hl=en" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/bigquery-icon-512x512-fxxj0xd6.png" alt="bigquery" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/storage?hl=en" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:250/1*UPYci8aQvCIZ_BbmLO_3vA.png" alt="googe_cloud_storage" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/functions/?userloc_1012728-network_g&gad_source=1&hl=en" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-functions-icon-2048x1840-djacjt6e.png" alt="cloud_function" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/storage?hl=en" target="_blank" rel="noreferrer"> <img src="https://iconduck.com/icons/104574/cloud-storage" alt="googe_cloud_storage" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Certificates:</h3>
 <p align="left"> 
   <a href="https://google.accredible.com/7eec3528-8b76-4997-a253-134db8a6269e#gs.4ly9o6" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93767437" alt="professional_cloud_architect" width="150" height="150"/> </a>
-  <a href="https://google.accredible.com/1ac2592f-946b-4b6a-a9ad-ed00272c16ba#gs.4lyjum" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69731354" alt="professional_cloud_architect" width="150" height="150"/> </a>
-  <a href="https://google.accredible.com/c6089c4b-ddca-4ef0-bc2c-e732891083ff#gs.4lyjgh" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88239261" alt="professional_cloud_architect" width="150" height="150"/> </a>
+  <a href="https://google.accredible.com/1ac2592f-946b-4b6a-a9ad-ed00272c16ba#gs.4lyjum" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69731354" alt="professional_data_engineer" width="150" height="150"/> </a>
+  <a href="https://google.accredible.com/c6089c4b-ddca-4ef0-bc2c-e732891083ff#gs.4lyjgh" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88239261" alt="professional_database_engineer" width="150" height="150"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" /></p>
