@@ -65,6 +65,7 @@
   <a href="https://cloud.google.com/pubsub?hl=en" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/64_google-pub-sub.db7db47f0f.svg" alt="punsub" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/vpc?userloc_1012728-network_g&gad_source=1&hl=en" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/72_google-virtual-private-cloud-vpc.fdc241f602.svg" alt="vpc" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/security/products/firewall?hl=en" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/25_google-cloud-firewall-rules.7b5cb21ba6.svg" alt="firewall" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/dataproc?hl=en" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/60_google-dataproc.60444c04b8.svg" alt="dataproc" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Certificates:</h3>
