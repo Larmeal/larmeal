@@ -55,7 +55,7 @@
 <h3 align="left">Cloud Services:</h3>
 <p align="left"> 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="http://localhost/C:/Users/armlo/OneDrive/Desktop/Notion Icon/google-cloud-icons/bigquery/bigquery.png"/ alt="bigquery" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/bigquery?hl=en" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/bigquery-icon-512x512-fxxj0xd6.png" alt="bigquery" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
