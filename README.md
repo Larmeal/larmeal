@@ -46,7 +46,7 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left"> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93767437)" alt="gcp" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" /></p>
