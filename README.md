@@ -46,7 +46,7 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left"> 
-  <a href="https://google.accredible.com/7eec3528-8b76-4997-a253-134db8a6269e#gs.4ly9o6" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="professional_cloud_architect" width="40" height="40"/> </a>
+  <a href="https://google.accredible.com/7eec3528-8b76-4997-a253-134db8a6269e#gs.4ly9o6" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93767437" alt="professional_cloud_architect" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" /></p>
