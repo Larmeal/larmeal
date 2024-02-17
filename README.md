@@ -70,10 +70,10 @@
   <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/56_google-data-studio.d711526ec0.svg" alt="looker_studio" width="40" height="40"/> </a>
 </p>
 <p align="left">
-  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/microsoft-azure-icon-512x396-6fn0yfat.png" alt="azure" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/microsoft-azure-icon-512x396-6fn0yfat.png" alt="azure" width="45" height="40"/> </a>
 </p>
 <p align="left">
-  <a href="https://aws.amazon.com/th/free/?trk=3a01ac84-d9cc-4c13-9103-28936ed6446d&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!562063379424!e!!g!!aws!15284814379!129342868469&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/th/free/?trk=3a01ac84-d9cc-4c13-9103-28936ed6446d&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!562063379424!e!!g!!aws!15284814379!129342868469&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="40"/> </a>
 </p>
 
 <h3 align="left">Certificates:</h3>
