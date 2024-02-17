@@ -30,7 +30,7 @@
 <p align="left"> 
 </p>
 
-<h3 align="left">Software Tools:</h3>
+<h3 align="left">Programming Software:</h3>
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
@@ -40,7 +40,16 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" alt="apache_airflow" width="40" height="40"/> </a> 
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png" alt="terraform" width="40" height="40"/> </a> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="apache_spark" width="40" height="40"/> </a> 
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="apache_spark" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" alt="gitlab" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Management Software:</h3>
+<p align="left"> 
+  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=150304258748&campaign=18455429755&creative=663390759260&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73361184046&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" alt="jira" width="40" height="40"/> </a>
+  <a href="https://miro.com/?utm_adgroup=&adgroupid=142344724793&utm_custom=18261731950&matchtype=e&device=c&location=1012728&gad_source=1" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="40"/> </a>
+  <a href="https://trello.com/home" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="trello" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Cloud Services:</h3>
