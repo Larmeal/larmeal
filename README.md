@@ -69,7 +69,7 @@
   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/microsoft-azure-icon-512x396-6fn0yfat.png" alt="azure" width="45" height="35"/> </a>
 </p>
 <p align="left">
-  <a href="https://aws.amazon.com/th/free/?trk=3a01ac84-d9cc-4c13-9103-28936ed6446d&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!562063379424!e!!g!!aws!15284814379!129342868469&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="30"/> </a>
+  <a href="https://aws.amazon.com/th/free/?trk=3a01ac84-d9cc-4c13-9103-28936ed6446d&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!562063379424!e!!g!!aws!15284814379!129342868469&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="35"/> </a>
   <a href="https://aws.amazon.com/th/ec2/?trk=7ab43914-52ab-4ca3-83d4-9a7df519434a&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!589053690884!e!!g!!ec2!16178327164!136912404887" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_9/0_ec2.e39060729d.svg" alt="ec2" width="40" height="40"/> </a>
 </p>
 
