@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chutdanai (dearm) thongsom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chutdanai (dearm) thongsom" height="30" width="40" /></a>
-<a href="https://medium.com/chutdanai thongsom (dearm)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chutdanai thongsom (dearm)" height="30" width="40" /></a>
+<a href="https://medium.com/chutdanai thongsom (dearm)" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="chutdanai thongsom (dearm)" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/larmeal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="larmeal" height="30" width="40" /></a>
 </p>
 
