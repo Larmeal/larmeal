@@ -86,8 +86,8 @@
 ## Records 📊
 <p align="center">
   <!--<a href="https://github.com/Larmeal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=larmeal&theme=light"/></a>-->
-  <a href="https://github.com/Larmeal"><img src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true" width="400" height="300"></a>
-  <a href="https://github.com/Larmeal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larmeal&layout=compact&langs_count=8" width="300" height="250"></a>
+  <a href="https://github.com/Larmeal"><img src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true"></a>
+  <a href="https://github.com/Larmeal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larmeal&layout=compact&langs_count=8"></a>
   <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
   <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
