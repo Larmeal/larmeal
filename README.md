@@ -81,9 +81,9 @@
   <a href="https://google.accredible.com/c6089c4b-ddca-4ef0-bc2c-e732891083ff#gs.4lyjgh" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88239261" alt="professional_database_engineer" width="150" height="150"/> </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true&locale=en" alt="larmeal" width="400" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" width="300" height="300"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true&locale=en" alt="larmeal" width="400" height="250"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" width="300" height="300"/>
 </p>
 <p><img align="left" src="https://raw.githubusercontent.com/mikyll/mikyll/output/github-contribution-grid-snake.svg" alt="larmeal" /></p>
 
