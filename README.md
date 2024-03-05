@@ -82,8 +82,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true&locale=en" alt="larmeal" width="400" height="250"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" width="300" height="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true&locale=en" alt="larmeal" width="500" height="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" width="400" height="450"/>
 </p>
 <p><img align="left" src="https://raw.githubusercontent.com/mikyll/mikyll/output/github-contribution-grid-snake.svg" alt="larmeal" /></p>
 
