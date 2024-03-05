@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larmeal&label=Profile%20views&color=0e75b6&style=flat" alt="larmeal" /> </p>
 
-<h1 align="center">About Me 😀</h1>
+<h1 align="left">About Me 😀</h1>
 - 🔭 I’m currently working on [Digithun Worldwide](https://www.digithun.com/)
 
 - 🌱 I’m currently learning **Data Engineer, Devops, Python etc.**
@@ -21,6 +21,7 @@
   <a href="https://linkedin.com/in/chutdanai (dearm) thongsom" target="blank"><img align="center" src="https://symbols.getvecta.com/stencil_65/10_linkedin.141f816ae8.svg" alt="chutdanai (dearm) thongsom" height="30" width="40" /></a>
 </p>
 
+<h1 align="left">Tech Stacks 💻</h1>
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -74,6 +75,7 @@
   <a href="https://aws.amazon.com/th/ec2/?trk=7ab43914-52ab-4ca3-83d4-9a7df519434a&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!589053690884!e!!g!!ec2!16178327164!136912404887" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_9/0_ec2.e39060729d.svg" alt="ec2" width="40" height="40"/> </a>
 </p>
 
+<h1 align="left">Other 🏃🏻‍♂️</h1>
 <h3 align="left">Certificates:</h3>
 <p align="left"> 
   <a href="https://google.accredible.com/7eec3528-8b76-4997-a253-134db8a6269e#gs.4ly9o6" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93767437" alt="professional_cloud_architect" width="150" height="150"/> </a>
@@ -83,7 +85,7 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true&locale=en" alt="larmeal" width="400" height="250"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" width="300" height="250"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larmeal&show_icons=true&locale=en&layout=compact" alt="larmeal" width="400" height="250"/>
 </p>
 <p><img align="left" src="https://raw.githubusercontent.com/mikyll/mikyll/output/github-contribution-grid-snake.svg" alt="larmeal" /></p>
 
