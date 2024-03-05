@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I'm someone with a growth mindset. I enjoy exploring new things that interest me and love playing almost every kind of sport, including weightlifting and running. I also have a passion for reading books, especially on economics, psychology, history, and science (and some cartoons too). I like playing management games or any games that I can enjoy with friends. Oh, and I can play music too—my best is the guitar, and I'm pretty decent on the piano as well!**
 
-## Connect with me
+## Connect with me ☎️
 <p align="left">
   <a href="https://www.leetcode.com/larmeal" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="larmeal" height="40" width="40" /></a>
   <a href="https://medium.com/chutdanai thongsom (dearm)" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="chutdanai thongsom (dearm)" height="40" width="50" /></a>
@@ -22,7 +22,7 @@
   
 </p>
 
-## Skills
+## Skills ⚒️
 ### Programming Languages
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -75,16 +75,16 @@
   <a href="https://aws.amazon.com/th/free/?trk=3a01ac84-d9cc-4c13-9103-28936ed6446d&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!562063379424!e!!g!!aws!15284814379!129342868469&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="35"/> </a>
   <a href="https://aws.amazon.com/th/ec2/?trk=7ab43914-52ab-4ca3-83d4-9a7df519434a&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!589053690884!e!!g!!ec2!16178327164!136912404887" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_9/0_ec2.e39060729d.svg" alt="ec2" width="40" height="40"/> </a                                           </p>
 
-## Certificates
+## Certificates 🪪
 <p align="center"> 
   <a href="https://google.accredible.com/7eec3528-8b76-4997-a253-134db8a6269e#gs.4ly9o6" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93767437" alt="professional_cloud_architect" width="150" height="150"/> </a>
   <a href="https://google.accredible.com/1ac2592f-946b-4b6a-a9ad-ed00272c16ba#gs.4lyjum" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69731354" alt="professional_data_engineer" width="150" height="150"/> </a>
   <a href="https://google.accredible.com/c6089c4b-ddca-4ef0-bc2c-e732891083ff#gs.4lyjgh" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88239261" alt="professional_database_engineer" width="150" height="150"/> </a>
 </p>
 
-## Stat
+## Records 📊
 <p align="center">
-  <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=larmea&theme=light"/></a>-->
+  <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=larmeal&theme=light"/></a>-->
   <a href="https://github.com/mikyll/mikyll"><img alt="larmeal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true"></a>
   <a href="https://github.com/mikyll/mikyll"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larmeal&layout=compact&langs_count=8"></a>
   <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
