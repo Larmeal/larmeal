@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I'm someone with a growth mindset. I enjoy exploring new things that interest me and love playing almost every kind of sport, including weightlifting and running. I also have a passion for reading books, especially on economics, psychology, history, and science (and some cartoons too). I like playing management games or any games that I can enjoy with friends. Oh, and I can play music too—my best is the guitar, and I'm pretty decent on the piano as well!**
 
-## Connect with me ☎️
+### Connect with me ☎️
 <p align="left">
   <a href="https://www.leetcode.com/larmeal" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="larmeal" height="40" width="40" /></a>
   <a href="https://medium.com/chutdanai thongsom (dearm)" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="chutdanai thongsom (dearm)" height="40" width="50" /></a>
