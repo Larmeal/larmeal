@@ -74,13 +74,14 @@
   <a href="https://aws.amazon.com/th/ec2/?trk=7ab43914-52ab-4ca3-83d4-9a7df519434a&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!589053690884!e!!g!!ec2!16178327164!136912404887" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_9/0_ec2.e39060729d.svg" alt="ec2" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Certificates:</h3>
+## Certificates
 <p align="left"> 
   <a href="https://google.accredible.com/7eec3528-8b76-4997-a253-134db8a6269e#gs.4ly9o6" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/93767437" alt="professional_cloud_architect" width="150" height="150"/> </a>
   <a href="https://google.accredible.com/1ac2592f-946b-4b6a-a9ad-ed00272c16ba#gs.4lyjum" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69731354" alt="professional_data_engineer" width="150" height="150"/> </a>
   <a href="https://google.accredible.com/c6089c4b-ddca-4ef0-bc2c-e732891083ff#gs.4lyjgh" target="_blank" rel="noreferrer"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88239261" alt="professional_database_engineer" width="150" height="150"/> </a>
 </p>
 
+## Stat
 <p align="center">
   <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=larmea&theme=light"/></a>-->
   <a href="https://github.com/mikyll/mikyll"><img alt="larmeal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true"></a>
