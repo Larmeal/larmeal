@@ -88,6 +88,6 @@
   <!--<a href="https://github.com/Larmeal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=larmeal&theme=light"/></a>-->
   <a href="https://github.com/Larmeal"><img src="https://github-readme-stats.vercel.app/api?username=larmeal&show_icons=true"></a>
   <a href="https://github.com/Larmeal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larmeal&layout=compact&langs_count=8"></a>
-  <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-  <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Larmeal/larmeal/969f3922c45b48036cb6150f35949947f61f0b59/src/image/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Larmeal/larmeal/969f3922c45b48036cb6150f35949947f61f0b59/src/image/github-contribution-grid-snake-dark.svg"/>
 </p>
