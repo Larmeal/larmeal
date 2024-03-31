@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chutdanai Thongsom [DEarm]</h1>
-<h3 align="center">I'm Data Engineer / DevOps (Learning) / Python Development (Learning)</h3>
+<h3 align="center">I'm Data Engineer / DevOps (Learning) / Python Development (Backend)(Learning)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larmeal&label=Profile%20views&color=0e75b6&style=flat" alt="larmeal" /> </p>
 
