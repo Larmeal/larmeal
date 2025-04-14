@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larmeal&label=Profile%20views&color=0e75b6&style=flat" alt="larmeal" /> </p>
 
 # About Me 😀
-- 🔭 I’m currently working on [Digithun Worldwide](https://www.digithun.com/)
+- 🔭 I’m currently working on [CJ Express](https://www.cjexpress.co.th/)
 
 - 🌱 I’m currently learning **Data Engineer, Devops, Python etc.**
 
