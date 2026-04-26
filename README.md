@@ -16,9 +16,9 @@
 
 ### Connect with me ☎️
 <p align="left">
-  <a href="https://www.leetcode.com/larmeal" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="larmeal" height="40" width="40" /></a>
-  <a href="https://medium.com/chutdanai thongsom (dearm)" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="chutdanai thongsom (dearm)" height="40" width="50" /></a>
-  <a href="https://linkedin.com/in/chutdanai (dearm) thongsom" target="blank"><img align="center" src="https://symbols.getvecta.com/stencil_65/10_linkedin.141f816ae8.svg" alt="chutdanai (dearm) thongsom" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/larmeal" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="larmeal" height="40" width="40" /></a>
+  <a href="https://medium.com/@larmeal" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium/000000" alt="chutdanai thongsom (dearm)" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/chutdanai-thongsom/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="chutdanai (dearm) thongsom" height="30" width="40" /></a>
   
 </p>
 
@@ -37,18 +37,18 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" alt="apache_airflow" width="40" height="40"/> </a> 
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png" alt="terraform" width="40" height="40"/> </a> 
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache_airflow" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="apache_spark" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" alt="gitlab" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
 </p>
 
 ### Management Software
 <p align="left"> 
-  <a href="https://miro.com/?utm_adgroup=&adgroupid=142344724793&utm_custom=18261731950&matchtype=e&device=c&location=1012728&gad_source=1" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="40"/> </a>
-  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=150304258748&campaign=18455429755&creative=663390759260&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73361184046&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" alt="jira" width="40" height="40"/> </a>
-  <a href="https://trello.com/home" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" alt="trello" width="40" height="40"/> </a>
+  <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/miro/050038" alt="miro" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jira/0052CC" alt="jira" width="40" height="40"/> </a>
+  <a href="https://trello.com/home" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/trello/0052CC" alt="trello" width="40" height="40"/> </a>
 </p>
 
 ### Cloud Services
@@ -67,13 +67,6 @@
   <a href="https://cloud.google.com/vpc?userloc_1012728-network_g&gad_source=1&hl=en" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/72_google-virtual-private-cloud-vpc.fdc241f602.svg" alt="vpc" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/security/products/firewall?hl=en" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/25_google-cloud-firewall-rules.7b5cb21ba6.svg" alt="firewall" width="40" height="40"/> </a>
   <a href="https://lookerstudio.google.com/u/0/navigation/reporting" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_4/56_google-data-studio.d711526ec0.svg" alt="looker_studio" width="40" height="40"/> </a>
-</p>
-<p align="left">
-  <a href="https://aws.amazon.com/th/free/?trk=3a01ac84-d9cc-4c13-9103-28936ed6446d&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!562063379424!e!!g!!aws!15284814379!129342868469&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="35"/> </a>
-  <a href="https://aws.amazon.com/th/ec2/?trk=7ab43914-52ab-4ca3-83d4-9a7df519434a&sc_channel=ps&ef_id={gclid}:G:s&s_kwcid=AL!4422!3!589053690884!e!!g!!ec2!16178327164!136912404887" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_9/0_ec2.e39060729d.svg" alt="ec2" width="40" height="40"/> </a                                           </p>
-
-<p align="left">
-  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/microsoft-azure-icon-512x396-6fn0yfat.png" alt="azure" width="45" height="35"/> </a>
 </p>
 
 ## Certificates 🪪
